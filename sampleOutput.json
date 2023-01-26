@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Video: Former Trump official says Pence classified documents make Biden's case for him | CNN Politics",
+            "description": "Former Trump White House official Alyssa Farah Griffin speaks with CNN's Anderson Cooper about the discovery of about a dozen documents marked classified in former Vice President Mike Pence's Indiana home last week.",
+            "url": "http://us.cnn.com/videos/politics/2023/01/25/farah-griffin-intv-pence-classified-documents-trump-biden-ac360-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230124212153-alyssa-farah-griffin.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-25T03:03:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Philip Elliott",
+            "title": "Kamala Harris Subtly Emerges as Powerful White House Asset",
+            "description": "The Vice President remains both a misunderstood and potentially potent force in politics, as she emphasizes abortion rights as a key issue.",
+            "url": "http://time.com/6249434/kamala-harris-abortion-powerful-asset/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2023/01/GettyImages-1246458260.jpg?quality=85&w=1024&h=628&crop=1",
+            "publishedAt": "2023-01-23T20:04:26Z",
+            "content": "This article is part of The D.C. Brief, TIME’s politics newsletter. Sign up here to get stories like this sent to your inbox.\r\nAs she started her closing cadence in front of an enthusiastic crowd, it… [+7410 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "What CNN reporter found 'notable' about FBI search of Biden's Delaware home | CNN Politics",
+            "description": "FBI investigators found additional classified material while conducting a search of President Joe Biden's home in Wilmington, Delaware, CNN's Paula Reid reports.",
+            "url": "http://us.cnn.com/videos/politics/2023/01/22/biden-white-house-documents-delaware-brown-reid-nr-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230114143104-joe-biden-file-011423.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-22T03:30:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "The Small but Mighty Danger of Echo Chamber Extremism",
+            "description": "Research shows that relatively few people exist in perfectly sealed-off media bubbles—but they’re still having an outsize impact on US politics.",
+            "url": "https://www.wired.com/story/media-echo-chamber-extremism",
+            "urlToImage": "https://media.wired.com/photos/63c9abc6c12d40f2309e8f90/191:100/w_1280,c_limit/Sec-maga-echochamber-1230451541-1.jpg",
+            "publishedAt": "2023-01-20T15:00:00Z",
+            "content": "One of the top concerns when it comes to the harms of social media and political polarization in the United States is the fear of echo chambers or people operating in media bubbles. If people are onl… [+3029 chars]"
+        },
+        {
+            "source": {
+                "id": "recode",
+                "name": "Recode"
+            },
+            "author": "Rebecca Heilweil",
+            "title": "Pete Buttigieg, the FAA, and the new politics of planes",
+            "description": "The Federal Aviation Administration needs some tech support.",
+            "url": "https://www.vox.com/recode/2023/1/19/23561531/faa-outage-notam-alerts-pilots-crews-delays-cancellations-biden-buttigieg",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/hpK_5cPTb4FrJGihErN6ryk6krs=/0x430:6000x3571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24370165/GettyImages_1454490456.jpg",
+            "publishedAt": "2023-01-19T12:30:00Z",
+            "content": "Before any flight takes off, pilots are supposed to read a Notice to Air Missions (NOTAM) that outlines any potential safety problems they might encounter during their flight. Full of numerical codes… [+7005 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jason Nichols",
+            "title": "Newsweek",
+            "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+            "url": "https://www.newsweek.com/",
+            "urlToImage": "https://d.newsweek.com/en/full/2177067/comp-image-military-cadets-putin.jpg",
+            "publishedAt": "2023-01-12T13:22:38.0882552Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2022-08-30T16:37:43.8583104Z",
+            "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+        },
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Politics Archives - The American Conservative",
+            "description": null,
+            "url": "https://www.theamericanconservative.com/category/politics/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-07T21:37:27.3936289Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "Daily Briefing",
+            "description": "The day's top stories, from sports to movies to politics to world events.",
+            "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+            "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+            "publishedAt": "2021-08-15T15:35:07+00:00",
+            "content": "The day's top stories, from sports to movies to politics to world events."
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}
